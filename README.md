@@ -16,5 +16,5 @@
 | STT   | Họ tên                 | MSSV       |  
 | :---: | ---                    | ---        |
 | 1     | <strong>  Mai Nguyễn Trung Kiên </strong>  | 2152245   |            
-| 2     |<strong> Nguyễn Đắc Cường  | 21522400   | 
-| 3     | <strong>Nguyễn Mai Chí Tấn      | 21522649   | 
+| 2     |<strong> Nguyễn Đắc Cường  | 21521902   | 
+| 3     | <strong>Nguyễn Mai Chí Tấn      | 21521414   | 
